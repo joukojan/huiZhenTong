@@ -1,4 +1,4 @@
-### 慧诊通智能平台（大模型应用）
+### 慧诊通平台（大模型应用）
 
 - **项目简介**：一款基于 LangChain4j 的 AI 医疗伴诊与预约平台，面向患者健康咨询、科室分导诊、预约挂号和取消预约等就医服务场景，实现从自然语言咨询到后端预约业务操作的 AI 应用闭环。
 - **技术栈**：SpringBoot、LangChain4j、LLM、Embedding、RAG、MongoDB、MyBatis、MySQL
